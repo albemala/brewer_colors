@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Updated README and LICENSE
+
 ## 1.0.0
 
 Initial release of the ColorBrewer package:

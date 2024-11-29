@@ -1,7 +1,7 @@
 name: colorbrewer
 description: "ColorBrewer: color palettes optimized for data visualization."
 homepage: https://github.com/albemala/brewer_colors
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.5.0 <4.0.0'
