@@ -1,4 +1,6 @@
-# brewer_colors
+# ColorBrewer
+
+[![Pub](https://img.shields.io/pub/v/pixel_art_generator)](https://pub.dev/packages/colorbrewer)
 
 A Flutter package providing [ColorBrewer](https://colorbrewer2.org/) color schemes - a collection of scientifically-derived color palettes optimized for data visualization, including sequential, diverging, and qualitative schemes.
 
@@ -38,7 +40,7 @@ The package includes:
 - **Diverging schemes**: BrBG, PiYG, PRGn, PuOr, RdBu, RdGy, RdYlBu, RdYlGn, Spectral
 - **Qualitative schemes**: Accent, Dark2, Paired, Pastel1, Pastel2, Set1, Set2, Set3
 
-<img src="assets/images/colors.png" alt="ColorBrewer Palette Preview" />
+<img src="https://raw.githubusercontent.com/albemala/brewer_colors/refs/heads/main/assets/images/colors.png" alt="ColorBrewer Palette Preview" />
 
 ## Projects using this package
 
