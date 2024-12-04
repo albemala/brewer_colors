@@ -52,6 +52,10 @@ Feel free to submit a pull request to add your project to this list.
 
 [Buy Me A Coffee](https://www.buymeacoffee.com/albemala)
 
+## Other projects
+
+[All my projects](https://projects.albemala.me/)
+
 ## Credits
 
 Created by [@albemala](https://github.com/albemala).
