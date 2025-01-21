@@ -50,7 +50,8 @@ Feel free to submit a pull request to add your project to this list.
 
 ## Support this project
 
-[Buy Me A Coffee](https://www.buymeacoffee.com/albemala)
+- [GitHub Sponsor](https://github.com/sponsors/albemala)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/albemala)
 
 ## Other projects
 
@@ -58,7 +59,7 @@ Feel free to submit a pull request to add your project to this list.
 
 ## Credits
 
-Created by [@albemala](https://github.com/albemala).
+Created by [@albemala](https://github.com/albemala) ([Twitter](https://twitter.com/albemala))
 
 Color schemes from [ColorBrewer](https://colorbrewer2.org/) by Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.
 
