@@ -1,3 +1,8 @@
+## 1.0.5
+
+- Fixed the pub.dev badge shield URL (was pointing at pixel_art_generator)
+- Updated project links in README (portfolio v5 migration)
+
 ## 1.0.4
 
 - Updated funding information

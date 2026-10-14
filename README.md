@@ -1,6 +1,6 @@
 # ColorBrewer
 
-[![Pub](https://img.shields.io/pub/v/pixel_art_generator)](https://pub.dev/packages/colorbrewer)
+[![Pub](https://img.shields.io/pub/v/colorbrewer)](https://pub.dev/packages/colorbrewer)
 
 A Flutter package providing [ColorBrewer](https://colorbrewer2.org/) color schemes - a collection of scientifically-derived color palettes optimized for data visualization, including sequential, diverging, and qualitative schemes.
 
